@@ -1,0 +1,19 @@
+.odd {
+  background-color: #fa8072;
+  font-family: "Verdana", "DejaVu", sans-serif;
+}
+
+.para-2 {
+  font-size: 24px;
+}
+
+#blue-color {
+  color: blue;
+  font-size: 36px;
+}
+
+#light-green-bg {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
